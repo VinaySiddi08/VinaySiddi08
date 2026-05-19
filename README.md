@@ -28,6 +28,7 @@ I'm interested in **applied machine learning**, **healthcare analytics**, and bu
 ## 📫 Get in touch
 
 - **Email:** vsiddi@albany.edu
+- **LinkedIn:** [linkedin.com/in/vinay-siddi-378252252](https://www.linkedin.com/in/vinay-siddi-378252252)
 - **Location:** Albany, NY (open to remote / relocation)
 
 ---
